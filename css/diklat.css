@@ -1,0 +1,33 @@
+.diklat-bg-primary {
+  background-color: #0d5c63 !important;
+  color: #ffffff !important;
+}
+
+.diklat-bg-secondary {
+  background-color: #ffc800 !important;
+  color: #000000 !important;
+}
+
+.carousel-background {
+  background-size: cover !important;
+  background-position: center !important;
+  opacity: 0.2 !important;
+}
+
+.text-black {
+  color: black !important;
+}
+
+.carousel-text {
+  text-align: center !important;
+  color: #fffffa !important;
+}
+
+.carousel-title {
+  font-size: 3rem !important;
+}
+
+.carousel-subtitle {
+  font-size: 1.7rem !important;
+  margin: 4px;
+}
