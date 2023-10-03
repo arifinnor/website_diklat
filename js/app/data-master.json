@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "label": "Beranda",
+      "url": "/web_diklat"
+    },    {
+      "label": "Struktur Organisasi",
+      "url": "/struktur-organisasi"
+    },
+    {
+      "label": "Panduan",
+      "url": "/panduan",
+      "submenu": [
+        {
+          "label": "Alur Daftar Pelatihan",
+          "url": "/panduan/alur-daftar-pelatihan"
+        },
+        {
+          "label": "Pendaftaran Pelatihan",
+          "url": "/panduan/pendaftaran-pelatihan"
+        },
+        {
+          "label": "Cek Status Kepesertaan",
+          "url": "/panduan/cek-status-kepesertaan"
+        }
+      ]
+    },
+    {
+      "label": "Daftar Tenaga Pelatih",
+      "url": "/tenaga-pelatih"
+    },
+    {
+      "label": "Pelatihan Internal",
+      "url": "/pelatihan-internal"
+    },
+    {
+      "label": "Pelatihan Eksternal",
+      "url": "/pelatihan-eksternal"
+    }
+  ]
+}
